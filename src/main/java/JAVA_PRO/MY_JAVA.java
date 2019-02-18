@@ -57,8 +57,6 @@ public class MY_JAVA {
                     // printing spaces
                     System.out.print(" ");
 
-
-
                 }
 
                 for (int j=0; j<=i; j++ ) {
@@ -66,7 +64,6 @@ public class MY_JAVA {
                     System.out.print("* ");
 
                 }
-
 
                 // ending line after each row
                 System.out.println();
@@ -81,8 +78,6 @@ public class MY_JAVA {
                 {
                     System.out.print("* ");
                 }
-
-
 
                 for (int j =7-y ; j >= y; j--)
                 {
